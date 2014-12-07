@@ -1,0 +1,110 @@
+approximation_curve_rendering.o: approximation_curve_rendering.c \
+ approximation_curve_rendering.h approximation_curve.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../COEUR/o_objet.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/eprintf.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_geometrie.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_memoire.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_widget.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_etat.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_geometrie.h
+bernstein.o: bernstein.c bernstein.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../COEUR/o_objet.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/eprintf.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_geometrie.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_memoire.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_widget.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_etat.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_base.h
+casteljau.o: casteljau.c casteljau.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../COEUR/o_objet.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/eprintf.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_geometrie.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_memoire.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_widget.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_etat.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_geometrie.h \
+ ne_utils.h
+matrix.o: matrix.c matrix.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../COEUR/o_objet.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/eprintf.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_geometrie.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_memoire.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_widget.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_etat.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_geometrie.h
+ne_utils.o: ne_utils.c ne_utils.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../COEUR/o_objet.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/eprintf.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_geometrie.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_memoire.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_widget.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_etat.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_geometrie.h
+o_approximation_curve.o: o_approximation_curve.c \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../COEUR/o_objet.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/eprintf.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_geometrie.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_memoire.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_widget.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_etat.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_geometrie.h \
+ approximation_curve.h approximation_curve_rendering.h matrix.h sys_lin.h \
+ bernstein.h casteljau.h ne_utils.h
+sys_lin.o: sys_lin.c sys_lin.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../COEUR/o_objet.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/eprintf.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_geometrie.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/codec.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/l_liste.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_memoire.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_widget.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../UTILITAIRES/u_etat.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_base.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../TYPES/t_geometrie.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../OBJETS/u_xt_interface.h \
+ /home/jo/m2im/modelisation/NE-2.5/modelisation_approximation/../OBJETS/o_interface.h
